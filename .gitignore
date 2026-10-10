@@ -1,0 +1,10 @@
+backend/.venv/
+__pycache__/
+*.pyc
+models/*.keras
+backend/samples/
+*.npz
+seg.npz
+frontend/node_modules/
+frontend/dist/
+.env
